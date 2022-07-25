@@ -1,0 +1,20 @@
+.search-box{
+    padding:.5rem 8rem;
+    border:none;
+    border-radius:20px;
+    background-color:rgb(232, 232, 232);
+    outline:none;
+
+}
+.bg-clr{
+    background-color:#fde9e8;
+}
+
+.buy-btn{
+    margin-top: 1rem;
+    padding:.5rem 2rem;
+    border-radius: 1rem;
+    background-color:#ff2a7e;
+    color:white;
+    border:none;
+}
